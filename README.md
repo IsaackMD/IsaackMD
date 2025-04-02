@@ -65,7 +65,7 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f474302-709c-4536-933b-01a1fa0b86fe/deploy-status)](https://app.netlify.com/sites/bucolic-genie-eb1f92/deploys)
 
 ### 🧰 &nbsp;Still Learning
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
