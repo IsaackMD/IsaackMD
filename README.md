@@ -17,7 +17,6 @@
 <br><br>
 
 - :school: Soy un `Programador Junior` en último año de la [Universidad Politécnica Metropolitana de Hidalgo](https://www.upmetropolitana.edu.mx/oferta-educativa/ITI) en Tolcayuca Hidalgo.
-- :trophy: 2x `ACPC` Finalist.
 - :technologist: Me gusta usar la tecnología para resolver cualquier `Problema`.
 - :computer: Soy un programador que constantemente aprende en:  `Udemy`, `Coursera`, `desafío Latam`, `Youtube`, `Google skills boost`,`Huawei Talent ICT`.
 - :student: Actualmente sigo desarrollando mis habilidades en `Programación` y Incursionando en `Machine Learning`, `Cloud Computing`, `Data Analyst`.
