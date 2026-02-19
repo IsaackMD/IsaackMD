@@ -3,7 +3,7 @@
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
+<img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-Programing-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Mex%20Hgo-success" />
   <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-brightgreen" />
