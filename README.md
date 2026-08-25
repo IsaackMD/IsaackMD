@@ -49,11 +49,11 @@ Trabajo sobre múltiples sistemas internos, principalmente con **React, Node.js/
 - Implementación de **WebSockets** y **Firebase Cloud Messaging** para comunicación y notificaciones en tiempo real.
 - Implementación completa de **2FA/TOTP**, incluyendo enrolamiento por QR y adaptación del flujo de login.
 - Migración de datos **MongoDB → PostgreSQL** mediante Python, con limpieza, deduplicación y normalización relacional.
-- Evolución de sistemas productivos como inventario tecnológico, gestión de proyectos y módulos de servicio médico, nutrición y psicología.
+- Evolución de sistemas productivos de gestión de proyectos, inventario tecnológico y servicios clínicos internos.
 
 ### JC&JF Cargo — Desarrollador .NET
 
-Estuve a cargo de la evolución del módulo **Cajas**, separado del sistema empresarial principal y desarrollado con **ASP.NET Core MVC / .NET 6**, **Entity Framework Core** y **SQL Server**.
+Estuve a cargo de la evolución de un **módulo operativo de cajas**, separado del sistema empresarial principal y desarrollado con **ASP.NET Core MVC / .NET 6**, **Entity Framework Core** y **SQL Server**.
 
 - Modifiqué procesos de revalidación, tránsito, validación/salidas, previos y generación de tickets.
 - Ajusté flujos a partir de pruebas y retroalimentación de usuarios especialistas.
@@ -124,23 +124,23 @@ Calidad       Postman Collections, pruebas funcionales, validacion con usuarios
 
 ## Proyectos destacados
 
-### FitAdminPro
+### Plataforma de gestión para gimnasios
 
 **React · TypeScript · .NET 8 · PostgreSQL · AWS · Docker**
 
-Dashboard administrativo para gimnasios con autenticación, miembros, sucursales, onboarding, branding dinámico, módulos operativos y arquitectura multi-tenant.
+Dashboard administrativo con autenticación, miembros, sucursales, onboarding, branding dinámico, módulos operativos y arquitectura multi-tenant. Proyecto independiente desarrollado bajo AcaBeck / FitAdminPro.
 
-### SIRIT
+### Sistema de inventario tecnológico
 
 **React · Node.js · Express · PostgreSQL · Sequelize**
 
-Sistema de inventario tecnológico con API REST, roles, dashboards, reportes y migración de datos desde MongoDB hacia un modelo relacional normalizado.
+Sistema institucional con API REST, roles, dashboards, reportes y migración de datos desde MongoDB hacia un modelo relacional normalizado.
 
-### RACI
+### Sistema de gestión de proyectos y tareas
 
 **React · Node.js · Express · PostgreSQL · WebSockets · Firebase**
 
-Sistema interno de gestión de proyectos y tareas con notificaciones en tiempo real, historial, Kanban y autenticación 2FA/TOTP.
+Sistema interno con notificaciones en tiempo real, historial, tablero Kanban, seguimiento de tareas y autenticación 2FA/TOTP.
 
 ---
 
